@@ -1,0 +1,17 @@
+{
+    "name": "sockstack/swoole-pusher",
+    "description": "a web pusher of swoole",
+    "authors": [
+        {
+            "name": "sockstack",
+            "email": "85564748@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "sockstack\\": "src",
+            "test\\": "test"
+        }
+    },
+    "require": {}
+}
